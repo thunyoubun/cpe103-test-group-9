@@ -1,7 +1,7 @@
-def multiply(i, 5): 
-    return (i * 5)
-def subtract(i, 1):
-    return (i - 1)
+def multiply(a, b): 
+    return (a * b)
+def subtract(a, b):
+    return (a - b)
 
 
 
